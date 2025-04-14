@@ -1,4 +1,4 @@
-# 🧠 OpenCV Workshop
+# <center>OpenCV Workshop</center>
 
 Welcome to the **OpenCV Workshop** organized by **IECSE** and **IEMCT**!  
 This session is designed for **beginners** to get a strong foundation in **Computer Vision using OpenCV**.
