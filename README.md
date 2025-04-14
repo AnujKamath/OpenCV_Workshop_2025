@@ -20,7 +20,6 @@ This session is designed for **beginners** to get a strong foundation in **Compu
 - Reading input/output
 - A quick intro to NumPy (arrays and operations)
 
----
 
 ### 2. 📸 Basics of OpenCV (60 mins)
 
@@ -50,7 +49,6 @@ This session is designed for **beginners** to get a strong foundation in **Compu
 **Objective:**  
 Participants will implement two small but impactful projects using OpenCV to consolidate their understanding of core concepts like color detection, masking, contours, and HSV color space.
 
----
 
 #### 🔴 **Part 1: Real-Time Red Object Detection (Blob Detection)**  
 **Goal:** Detect red-colored objects in real time using the webcam and highlight them with bounding boxes.
@@ -65,7 +63,6 @@ Participants will implement two small but impactful projects using OpenCV to con
 
 **Expected Output:** Webcam feed where red-colored objects are identified and labeled in real time.
 
----
 
 #### 🚦 **Part 2: Color Detection in Traffic Video**  
 **Goal:** Analyze a recorded video to detect the presence of specific vehicle colors (Red, Yellow, Green) and overlay text showing the detected color.
