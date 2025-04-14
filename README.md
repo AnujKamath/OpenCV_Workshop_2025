@@ -45,10 +45,6 @@ This session is designed for **beginners** to get a strong foundation in **Compu
 
 ---
 
-Got it! Here's the proper structure for the **Mini Project** section in your workshop:
-
----
-
 ### 🧪 Mini Project: Real-Time Color-Based Object Detection & Traffic Video Analysis
 
 **Objective:**  
